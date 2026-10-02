@@ -1,0 +1,11 @@
+site_name: My Docs Site
+
+
+theme:
+  name: readthedocs
+  custom_dir: custom_theme/
+
+
+
+nav:
+  - Home: index.md
